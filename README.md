@@ -2,7 +2,7 @@
 Hey wonderful people! 👋 I'm Rimsha Arshad, a passionate developer with an unyielding love for turning lines of code into captivating digital experiences.
 
 ## 🚀 Journey So Far
-In my ongoing pursuit of knowledge, I'm navigating the dynamic world of Information Technology, currently pursuing my BS-IT degree. The journey has been illuminated by my Cisco Netcad Certification in Networking, and I've had the privilege of contributing my skills during an enriching internship at MCB Islamic Bank.
+In my ongoing pursuit of knowledge, I'm navigating the dynamic world of Information Technology, currently pursuing my BS-IT degree. The journey has been illuminated by my Cisco Netcad Certification in Networking, and I've had the privilege of contributing my skills during an enriching as Full-Stack web devloper intern at ISX. And illuminate my journey with MERN stack certification confidently and conquering interviews in tech industry.
 
 ## 💻 Tech Enthusiast
 Web Development and IT support systems fuel my daily excitement. I find joy in the elegant dance of code and the strategic intricacies of IT solutions. Each challenge is an opportunity to learn, grow, and create something extraordinary.
