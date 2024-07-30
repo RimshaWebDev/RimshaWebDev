@@ -30,7 +30,7 @@ Collaboration is where the magic happens! I'm on the lookout for incredible proj
 ## 📫 Reach Out
 Feel free to drop me a line on [LinkedIn](https://www.linkedin.com/in/rimsha-arshad/) or visit my website  at https://www.rmshaa.com . Can't wait to embark on the next coding adventure together! 🚀
 
-Looking forward to meeting you in the vast and exciting realm of technology! 🌈✨
+Looking forward to meeting you in the vast and exciting realm of technology! ✨
 
 <h3 align="left">Collaborate with me:</h3>
 <p align="left">
